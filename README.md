@@ -18,8 +18,8 @@ Kurulum dili olarak **Türkçe, İngilizce veya Almanca** seçebilirsiniz.
 ## 📜 Kurulum Adımları  
 1. **Depoyu indir veya kopyala:**  
    ```bash
-   git clone https://github.com/WestSemih123/Office2024-Installer.git
-   cd Office2024-Installer
+   git clone https://github.com/WestSemih123/Office-2024-Auto-Installer.git
+   cd Office-2024-Auto-Installer
 2. Office2024.bat dosyasını yönetici olarak çalıştır
 3. Dil seçeneğini belirleyip yönergeleri takip et
  ## ⚠️ Notlar ve Uyarılar
