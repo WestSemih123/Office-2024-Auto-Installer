@@ -22,7 +22,7 @@ Kurulum dili olarak **Türkçe, İngilizce veya Almanca** seçebilirsiniz.
    cd Office2024-Installer
 2. Office2024.bat dosyasını yönetici olarak çalıştır
 3. Dil seçeneğini belirleyip yönergeleri takip et
-   ⚠️ Notlar ve Uyarılar
+ ## ⚠️ Notlar ve Uyarılar
 
     Bu betik yalnızca Office 2024'ü indirir ve kurar, aktivasyon yapmaz.
     Office’i kullanabilmek için geçerli bir lisansa ihtiyacınız vardır.
